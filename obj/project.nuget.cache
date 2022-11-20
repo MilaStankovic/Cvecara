@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "N3+2S66A+BaX/vBRUCiLp2dIi3jG55MXeLQBlaR0NxB+QS/hR0gJYETrhFrNKWgzLkSquWb3k5pzEr8j1OI1XA==",
+  "success": true,
+  "projectFilePath": "C:\\FAX\\Apsolventska Online 2021-2022\\Web\\MILA-Vezbanje\\Cvecara\\Cvecara.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mila\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Mila\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Mila\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Mila\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Mila\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Mila\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

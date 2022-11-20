@@ -1,0 +1,48 @@
+.glavniKontejner {
+    border: 1px solid black;
+}
+
+.naslovCvecare {
+    text-align: center;
+}
+
+.velikiDiv {
+    display: flex;
+    flex-direction: row;
+}
+
+.leviDiv {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 200px;
+}
+
+.divZaRed {
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+}
+
+.nazivReda {
+    min-width: 70px;
+}
+
+.odabirSvega {
+    width: 100%
+}
+
+.gornjiDeo {
+    display: flex;
+    flex-direction: row;
+}
+
+.gornji {
+    width: 20px;
+    height: 80px;
+}
+
+.donji {
+    width: 80px;
+    height: 20px;
+}
